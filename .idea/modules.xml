@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/DeterminantCalculator/DeterminantCalculator.iml" filepath="$PROJECT_DIR$/DeterminantCalculator/DeterminantCalculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GaussJordanAlgorithm/GaussJordanAlgorithm.iml" filepath="$PROJECT_DIR$/GaussJordanAlgorithm/GaussJordanAlgorithm.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/MathematicsAutomated.iml" filepath="$PROJECT_DIR$/.idea/MathematicsAutomated.iml" />
     </modules>
   </component>
