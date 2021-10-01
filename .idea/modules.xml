@@ -4,7 +4,10 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/DeterminantCalculator/DeterminantCalculator.iml" filepath="$PROJECT_DIR$/DeterminantCalculator/DeterminantCalculator.iml" />
       <module fileurl="file://$PROJECT_DIR$/GaussJordanAlgorithm/GaussJordanAlgorithm.iml" filepath="$PROJECT_DIR$/GaussJordanAlgorithm/GaussJordanAlgorithm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HoaxNumbers/HoaxNumbers.iml" filepath="$PROJECT_DIR$/HoaxNumbers/HoaxNumbers.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/MathematicsAutomated.iml" filepath="$PROJECT_DIR$/.idea/MathematicsAutomated.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PrimeFactors/PrimeFactors.iml" filepath="$PROJECT_DIR$/PrimeFactors/PrimeFactors.iml" />
+      <module fileurl="file://$PROJECT_DIR$/standardDeviation/standardDeviation.iml" filepath="$PROJECT_DIR$/standardDeviation/standardDeviation.iml" />
     </modules>
   </component>
 </project>

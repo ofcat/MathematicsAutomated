@@ -35,7 +35,7 @@ public class PrimeFactors {
 
 
     public static void main(String[] args) {
-        int n = 315;
+        int n = 105;
         primeFactors(n);
     }
 }
